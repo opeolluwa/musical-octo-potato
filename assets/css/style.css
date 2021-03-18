@@ -234,10 +234,10 @@ a.main-button-slider {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #f55858;
+  background-color: #fdca00;
 
   text-transform: capitalize;
-  color: #fff;
+  color: #484058;
   letter-spacing: 0.25px;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -246,8 +246,9 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #D50000;
+  background-color: #484058;
   border: 1px solid #fff;
+  color: #fff;
 }
 
 a.main-button {
