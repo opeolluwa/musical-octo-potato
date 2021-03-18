@@ -1,0 +1,21 @@
+.socialLinks{
+  display:  flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+ .socialLinks a {
+  color: inherit !important;
+  background-color: inherit !important;
+}
+
+ .socialLinks a:hover {
+  color: #2196f3;
+  transition: 0.1s ease;
+}
+
+/*.socialLinks  .fab,
+ .socialLinks .fas {
+  font-size: 1.15rem;
+  font-weight: 500;
+}*/
+
